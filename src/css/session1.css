@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+}
+.btn{
+    padding: 20px;
+    margin-left: 20px;
+}
+h3{
+    color: #44d7b6 !important;
+    font-family: Satisfy, cursive !important;
+    font-size: 1.5rem !important;
+}
+

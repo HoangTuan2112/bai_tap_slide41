@@ -1,0 +1,22 @@
+.products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-left: 20px;
+}
+.star i{
+    color: yellow;
+}
+.price {
+    color: green;
+}
+.oldPrice{
+    text-decoration: line-through;
+}
+.product{
+    margin-right: 20px;
+}
